@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="str_btn_find">Find</string>
+
+     <string-array name="place_type">
+        <item>grocery_or_supermarket</item>
+     </string-array>
+     
+     <string-array name="place_type_name">
+            <item>supermarket</item>
+      </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
